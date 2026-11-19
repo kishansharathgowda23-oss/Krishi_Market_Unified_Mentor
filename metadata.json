@@ -1,0 +1,6 @@
+{
+  "name": "Krishi Market",
+  "description": "Farmer-to-Consumer Agri Marketplace connecting local Indian farmers directly with households for fresh vegetables, fruits, dairy, grains, and organic produce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
